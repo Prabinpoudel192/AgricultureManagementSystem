@@ -1,0 +1,79 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-image:url("../images/Background.JPG");
+    background-size:cover;
+    background-repeat:no-repeat;
+    z-index:1;
+}
+body h1{
+    text-align:center;
+    font-size:40px;
+    color:darkblue;
+    height:60px;
+    width:100%;
+    background-color:navajowhite;
+    margin:0px;
+    border:3px solid black;
+}
+.pra1{
+    height:700px;
+    width:400px;
+    border:2px solid black;
+    position:relative;
+    float:left;
+    margin:20px 0px 20px 40px;
+    background-color:black;
+    border-radius:15px;
+}
+.pra2{
+    margin:-5px -10px 0px -3px;
+    width: 102%;
+    height:200px;
+    background-color:white;
+    font-size:15px;
+    font-weight:500;
+    font-style:italic;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align:center;
+    border-radius:15px;
+
+}
+.pra3{
+    height:40px;
+    width:40px;
+    border-radius:50px;
+    margin:5px;
+    background-color:black;
+    position:relative;
+    float:left;
+}
+.pra4{
+    height:40px;
+    width:85%;
+    margin:15px 0px 0px 0px;
+    position:relative;
+    text-align:left;
+    float:left;
+    background-color:white;
+    font-size:25px;
+    font-weight:bolder;
+    font-family:'Times New Roman', Times, serif;
+    color:darkblue;
+}
+.pra5{
+    margin:0px;
+    float:left;
+    word-wrap: break-word;
+}
+.btn{
+    height:60px;
+    width:60px;
+    border-radius:50px;
+    z-index:5;
+    background-image:url('../images/home.jpg');
+    background-size:cover;
+    position:fixed;
+    margin:0px 0px 0px 500px;
+
+}
